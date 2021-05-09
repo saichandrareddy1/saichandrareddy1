@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saireddy950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="saireddy950" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-chandra-reddy-vuta-946b2b133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-chandra-reddy-vuta-946b2b133/" height="30" width="40" /></a>
+<a href="https://twitter.com/saireddy950" target="blank"><img align="center" src="https://www.pngkey.com/png/full/32-327524_simple-twitter-logo-png-transparent-background-logos-twitter.png" alt="saireddy950" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-chandra-reddy-vuta-946b2b133/" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
